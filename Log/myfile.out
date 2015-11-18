@@ -1,0 +1,4 @@
+update DataBase with name: db2 Successfull:{update db2.mtn_service set is_enable=0, date_modify=NOw() where subscriber = '3';} at :2015-11-17 17:24:48.776990
+update DataBase with name: db2 Successfull:{update db2.mtn_service set is_enable=1, date_modify=NOw() where subscriber = '3';} at :2015-11-17 18:07:42.907792
+update DataBase with name: db2 Successfull:{update db2.mtn_service set is_enable=1, date_modify=NOw() where subscriber = '5';} at :2015-11-17 18:08:29.284936
+update DataBase with name: db1 Successfull:{update db1.mtn_service set is_enable=1, date_modify=NOw() where subscriber = '5';} at :2015-11-17 18:09:05.659307
